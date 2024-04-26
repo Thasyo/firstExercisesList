@@ -32,3 +32,20 @@ Este projeto é dedicado à resolução dos exercícios da 1° lista disponibili
 ```Terminal
     node .\celsiusToFahrenheit.js
 ```
+## Atenção
+
+- Para uma perfeita execução, é necessário que você tenha instalado no seu projeto o pacote ``` npm prompt-sync ```.
+
+- Caso você não tenha instalado, abaixo estará um exemplo de como você pode instalá-lo no seu projeto:
+
+#### 1° Passo: Entre na pasta do projeto.
+
+```terminal
+    cd ./firstExercisesList
+```
+
+#### 2° Passo: Instale o pacote descrito.
+
+```terminal
+    npm install prompt-sync    
+```
