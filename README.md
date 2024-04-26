@@ -19,6 +19,10 @@ Este projeto é dedicado à resolução dos exercícios da 1° lista disponibili
 
 #### 3° Passo: Entre na pasta do exercício.
 
+```Terminal
+    cd nome_da_pasta_do_exercicio
+```
+
 - Exemplo para entrar na pasta do exercício 01.
 
 ```Terminal
@@ -26,6 +30,10 @@ Este projeto é dedicado à resolução dos exercícios da 1° lista disponibili
 ```
 
 #### 4° Passo: Execute o arquivo do exercício.
+
+```Terminal
+    cd nome_do_arquivo_do_exercicio.js
+```
 
 - Exemplo para executar o exercício 01.
 
